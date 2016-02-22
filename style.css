@@ -27,6 +27,10 @@ span {
   font-weight: 300;
 }
 
+h2 a:hover{
+  opacity: .3;
+}
+
 h2 img{
   margin-left: 250px;
 }
